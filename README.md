@@ -1,5 +1,1 @@
-layout: page
-title: "README"
-permalink: /readme
-
-Test page.
+This portfolio consists of data and data-adjacent analyses of the mobile game World Flipper. Please view the site directly at qo0b.github.io.

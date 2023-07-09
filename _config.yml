@@ -25,9 +25,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github: [metadata]
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: minima
+# remote_theme: pages-themes/slate@v0.2.0
+# plugins:
+# - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

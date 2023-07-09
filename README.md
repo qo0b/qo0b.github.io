@@ -1,1 +1,1 @@
-This portfolio consists of data and data-adjacent analyses of the mobile game World Flipper. Please view the site directly at qo0b.github.io.
+This portfolio consists of data and data-adjacent analyses of the mobile game World Flipper. Please view the site directly [here](qo0b.github.io).

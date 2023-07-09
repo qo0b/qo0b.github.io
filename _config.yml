@@ -22,8 +22,7 @@ title: qo0b's portfolio
 description: Data-driven game exploration.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  qo0b
-repository: qo0b/qo0b.github.io
+github: [metadata]
 
 # Build settings
 theme: jekyll-theme-slate
